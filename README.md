@@ -94,4 +94,3 @@ For any questions or inquiries, please contact:
 
 ---
 
-You can adjust the contact information, project details, and any other sections as needed.
