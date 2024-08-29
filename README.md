@@ -84,20 +84,13 @@ System.out.println("Chained Calculation (5 + 3) * 2: " + chainedResult);
   - `DivideOperation.java`
 - **`src/test/java/com/ebay/calculator/ebay`**: Contains unit tests for the application.
 
-## Contributing
-
-Feel free to fork the repository and submit pull requests for improvements or new features.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
 For any questions or inquiries, please contact:
 
 - **Name**: Ajay Naik
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+
 
 ---
 
