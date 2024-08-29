@@ -85,12 +85,6 @@ System.out.println("Chained Calculation (5 + 3) * 2: " + chainedResult);
 - **`src/test/java/com/ebay/calculator/ebay`**: Contains unit tests for the application.
 
 
-## Contact
-
-For any questions or inquiries, please contact:
-
-- **Name**: Ajay Naik
-
 
 ---
 
